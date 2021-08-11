@@ -8,9 +8,9 @@
   
  # IF Already done all above steps for PUSH we can only do
 	
-	      c:/GitRepository/test> git push -u origin master
+	 c:/GitRepository/test> git push -u origin master
 
-# IF in case you want to reset/remove the remote origin i.e. 
+IF in case you want to reset/remove the remote origin i.e. 
 	"https://github.com/saif2019github/Hibernate.git"
 	 you can use following commands :
   
