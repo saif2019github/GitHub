@@ -10,14 +10,15 @@
 	
 	      c:/GitRepository/test> git push -u origin master
 
-# IF in case you want to reset/remove the remote origin i.e. "https://github.com/saifali2019github/spring-rest.git"
-# you can use following commands :
+# IF in case you want to reset/remove the remote origin i.e. 
+	"https://github.com/saif2019github/Hibernate.git"
+	 you can use following commands :
   
         c:/GitRepository/test> git remote -v  		.............to view remote origin 
         c:/GitRepository/test> git remote rm origin	.......... to clear remote origin
   
 # To pull changes : 
-  ex: - c:/GitRepository/test> git init
+ 	 ex: - 	c:/GitRepository/test> git init
 	    	c:/GitRepository/test> git pull https://github.com/saifali2019github/spring-rest.git master
         
         
